@@ -1,2 +1,2 @@
-# CRISH-THE-ZOMBIES-1
-there is a error in the code pls check it
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
